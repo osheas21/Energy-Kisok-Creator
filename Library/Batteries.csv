@@ -1,0 +1,36 @@
+﻿BATTERY LIBRARY,,,,,
+Model,Victron 12 Volt AGM (using % effective capacities),,,,
+Voltage (V),12,,,,
+Capacity (Ah),220,,,,
+Discharge time (hr),20,10,5,3,1
+Effective capacity (Ah) or (%/100),1,0.92,0.85,0.78,0.65
+Minimum state of charge (%/100),0.4,,,,
+Price ($),800,,,,
+Reference,KWH Equipment Specifications Google Drive,,,,
+,,,,,
+Model,Hypothetical Victron 6 Volt AGM (using Ah effective capacities),,,,
+Voltage (V),6,,,,
+Capacity (Ah),240,,,,
+Discharge time (hr),20,10,5,3,1
+Effective capacity (Ah) or (%/100),220,206.8,193.6,180.4,167.2
+Minimum state of charge (%/100),0.35,,,,
+Price ($),550.68,,,,
+Reference,KWH Equipment Specifications Google Drive,,,,
+,,,,,
+Model,UPG Sealed UB12550,,,,
+Voltage (V),12,,,,
+Capacity (Ah),55,,,,
+Discharge time (hr),20,10,5,1,
+Effective capacity (Ah) or (%/100),55,51.15,46.75,33,
+Minimum state of charge (%/100),0.4,,,,
+Price ($),1250,,,,
+Reference,KWH Equipment Specifications Google Drive,,,,
+,,,,,
+Model,MODEL NAME,,,,
+Voltage (V),NOMINAL VOLTAGE,,,,
+Capacity (Ah),NOMINAL CAPACITY,,,,
+Discharge time (hr),SLOWEST DISCHARGE RATE,,,,FASTEST DISCHARGE RATE
+Effective capacity (Ah) or (%/100),LARGEST EFFECTIVE CAPACITY CORRESPONDING TO ABOVE RATE,,,,SMALLEST EFFECTIVE CAPACITY CORRESPONDING TO ABOVE RATE
+Minimum state of charge (%/100),"MINIMUM STATE OF CHARGE BEFORE BATTERY CANNOT PROVIDE POWER, DECIMAL FORMAT (i.e. 0.35 NOT 35%)",,,,
+Price ($),PRICE PER BATTERY,,,,
+Reference,INFORMATION ON WHERE TO FIND DATASHEET,,,,
