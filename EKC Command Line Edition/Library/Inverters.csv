@@ -1,0 +1,16 @@
+﻿INVERTER LIBRARY,
+Model,Quattro 3kVA
+Capacity (VA),3000
+Maximum Voltage (V),66
+Efficiency (%),93
+Zero Load Power (W),20
+Price ($),254.36
+Reference,https://drive.google.com/file/d/1vc-hq53h20dVrhcKqWIFi5310JR860zV/view?usp=sharing
+,
+Model,MODEL NAME
+Capacity (VA),NOMINAL CAPACITY
+Maximum Voltage (V),UPPER END OF INPUT VOLTAGE RANGE
+Efficiency (%),MAXIMUM EFFICIENCY (e.g. 93% NOT .93)
+Zero Load Power (W),ZERO LOAD POWER (W)
+Price ($),PRICE
+Reference,INFORMATION ON WHERE TO FIND SPECIFICATIONS
