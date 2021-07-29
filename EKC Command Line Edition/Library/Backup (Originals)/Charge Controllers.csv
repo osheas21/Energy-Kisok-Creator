@@ -1,0 +1,15 @@
+﻿CHARGE CONTROLLER LIBRARY,
+,
+Model,SmartSolar 250/60
+Capacity (W),860
+Maximum Voltage (V),250
+Efficiency (%),99
+Price ($),180.63
+Reference,https://drive.google.com/file/d/12SJIVPqLmLHFYeTDjWANim-WKPGMSJeD/view?usp=sharing
+,
+Model,MODEL NAME
+Capacity (W),NOMINAL CAPACITY (W)
+Maximum Voltage (V),MAXIMUM PV OPEN-CIRCUIT VOLTAGE
+Efficiency (%),MAXIMUM EFFICIENCY (e.g. 99% NOT .99)
+Price ($),PRICE ($)
+Reference,INFORMATION ON WHERE TO FIND SPECIFICATIONS

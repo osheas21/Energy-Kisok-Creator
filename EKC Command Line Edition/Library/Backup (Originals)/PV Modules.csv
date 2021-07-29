@@ -1,0 +1,32 @@
+PV MODULE LIBRARY,
+Model,Suntech 330W HIPro Series
+Max STC Power (Pmax) [W],330
+Open-Circuit Voltage (V),40.7
+NOCT (°C),42
+Power Temperature Coefficient (%),-0.37
+Price ($),800
+Reference,https://drive.google.com/file/d/1Xiqj1Bs4OjrcAJq36VEoshdNIJd43swT/view?usp=sharing
+,
+Model,JA Solar 385W PERC Module
+Max STC Power (Pmax) [W],385
+Open-Circuit Voltage (V),48.98
+NOCT (°C),45
+Power Temperature Coefficient (%),-0.38
+Price ($),1455.86
+Reference,https://drive.google.com/file/d/1iTXakzGawF1XBu15rah7yGdGEieR6x7r/view?usp=sharing
+,
+Model,Suntech 345 Watt Poly Half Cell
+Max STC Power (Pmax) [W],345
+Open-Circuit Voltage (V),46.1
+NOCT (°C),42
+Power Temperature Coefficient (%),-0.38
+Price ($),1235
+Reference,https://drive.google.com/file/d/1SfSiTIU-KoEMwdV89aT6qGVHI_lerCQb/view?usp=sharing
+,
+Model,MODEL NAME
+Max STC Power (Pmax) [W],MAXIMUM POWER AT STC
+Open-Circuit Voltage (V),
+NOCT (°C),NOMINAL OPERATING CELL TEMPERATURE
+Power Temperature Coefficient (%),Typically -0.30 to -0.50 -- NOT -0.0030 to -0.0050
+Price ($),PRICE PER MODULE
+Reference,INSERT REFERENCE HERE
